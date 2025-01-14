@@ -1,0 +1,14 @@
+com\scan\config\OpenApiConfig.class
+com\scan\dao\HikingTrailDao.class
+com\scan\model\vo\InsertVo.class
+com\scan\service\impl\ScanServiceImpl$1.class
+com\scan\service\ScanService.class
+com\scan\controller\MainApplication.class
+com\scan\model\po\HikingTrail$HikingTrailBuilder.class
+com\scan\model\po\HikingTrail.class
+com\scan\model\vo\DeleteVo$DeleteVoBuilder.class
+com\scan\model\vo\InsertVo$InsertVoBuilder.class
+com\scan\model\vo\DeleteVo.class
+com\scan\ScanDataApplication.class
+com\scan\service\impl\ScanServiceImpl.class
+com\scan\dao\impl\HikingTrailDaoImpl.class
