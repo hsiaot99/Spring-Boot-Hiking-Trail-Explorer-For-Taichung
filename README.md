@@ -1,5 +1,4 @@
 # Spring-Boot-Hiking-Trail-Explorer-For-Taichung
-# HikingTrail
 
 This project is a Spring Boot command-line application designed to manage and interact with hiking trail data, specifically for the Taichung area.
 
