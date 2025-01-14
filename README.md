@@ -2,6 +2,9 @@
 
 This project is a Spring Boot command-line application designed to manage and interact with hiking trail data, specifically for the Taichung area.
 
+## Data Resource
+https://data.gov.tw/
+
 ## Building and Running the Application
 
 To build the application, run the following command:
